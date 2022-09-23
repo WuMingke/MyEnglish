@@ -17,7 +17,7 @@ so-called adj所谓的
 in addition 除此之外
 sequential adj顺序的
 parallel 并行
-
+separate 分开、独立的
 
 
 
