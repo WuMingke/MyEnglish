@@ -17,6 +17,14 @@ so-called adj所谓的
 in addition 除此之外
 sequential adj顺序的
 parallel 并行
+separate 分开、独立的
+in place 适当的
+in place of 代替
+instantly adv立刻
+detect vt检测
+handy adj有用的
+is equivalent to 全等于
+isolate 隔离
 
 
 
