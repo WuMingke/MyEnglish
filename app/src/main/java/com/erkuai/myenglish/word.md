@@ -24,8 +24,10 @@ instantly adv立刻
 detect vt检测
 handy adj有用的
 is equivalent to 全等于
-isolate 隔离
-
+isolate 隔离 
+diagnosticate v诊断
+deactive n停止活动
+dispose v放置
 
 
 
