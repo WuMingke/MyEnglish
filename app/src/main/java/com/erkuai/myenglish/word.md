@@ -28,6 +28,14 @@ isolate 隔离
 diagnosticate v诊断
 deactive n停止活动
 dispose v放置
+extent n范围 长度
+prototype 原型
+inherit v继承
+obscure 模糊的
+interaction n互动
+axis n轴线
+loose 松动的
+
 
 
 
