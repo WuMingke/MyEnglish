@@ -35,6 +35,11 @@ obscure 模糊的
 interaction n互动
 axis n轴线
 loose 松动的
+symmetric adj对称的
+container n容器
+prototype n原型
+persistent adj坚持的
+inherited adj v 继承
 
 
 
