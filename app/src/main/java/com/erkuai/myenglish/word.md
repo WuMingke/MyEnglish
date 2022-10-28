@@ -40,6 +40,8 @@ container n容器
 prototype n原型
 persistent adj坚持的
 inherited adj v 继承
+periodic adj周期性的
+
 
 
 
